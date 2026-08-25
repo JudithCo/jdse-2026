@@ -10,8 +10,8 @@
 * **Quentin Bouniot**, *LTCI, Télécom Paris, Institut Polytechnique de Paris*
 * **Clément Fisher**, *CEA LIST, Université Paris-Saclay*
 * **Robin Guyon**, *CEA LIST, Université Paris-Saclay*
-* **Massinissa Hamidi**, * IBISC, Université Évry Paris-Saclay*  
-* **Désiré Sidibé**, * IBISC, Université Évry Paris-Saclay* 
+* **Massinissa Hamidi**, *IBISC, Université Évry Paris-Saclay*  
+* **Désiré Sidibé**, *IBISC, Université Évry Paris-Saclay* 
 * **Julien Signoles**, *CEA LIST, Université Paris-Saclay* 
 
 
