@@ -1,4 +1,6 @@
-## Organization Committee
+# Organization
+
+## Committee
 ### Junior Committee
 * **Julian Agudelo**, *MIA PS, AgroParisTech, Université Paris-Saclay*
 * **Judith Coutrot**, *IBISC, Université Évry Paris-Saclay*
