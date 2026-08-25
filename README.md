@@ -27,10 +27,10 @@ All deadlines are 23:59 CEST (UTC+2)
 More informations about submissions [here](/jdse-2026/callPapers).
 
 ## Keynotes
-* **Jerome Lang**, LAMSADE
-* **Eugène Ndiaye**, Independent Researcher
-* **François Charton**, 
+* **François Charton**, Research Engineer at Axiom Math
 * **Maxime Di Folco**, Associate Professor at Télécom Paris, Institut Polytechnique de Paris
+* **Eugène Ndiaye**, Independent Researcher
+* **Jerome Lang**, Director of LAMSADE, CNRS, Université Paris-Dauphine PSL
 
 More about speakers [here](/jdse-2026/speakers).
 
