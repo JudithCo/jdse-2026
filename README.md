@@ -1,49 +1,57 @@
 ## Description
-Are you a **Master’s student or an early-career researcher** eager to share your work, gain valuable insights, and connect with experts? The **10th edition of the Junior Conference on Data Science and Engineering (JDSE)** is your chance to **present your research, receive constructive feedback, and sharpen your presentation skills** in a dynamic and supportive environment. 
+Are you a **Master’s student or an early-career researcher** eager to share your work, gain valuable insights, and connect with experts? The **11th edition of the Junior Conference on Data Science and Engineering (JDSE)** is your chance to **present your research**, receive constructive feedback, and sharpen your presentation skills in a dynamic and supportive environment. 
 
 Join us for **keynote talks by leading academics and industry professionals**, providing inspiration and networking opportunities to help you grow in your field. 
 
 We welcome **second-year Master’s students and first/second-year PhD students** from **Université Paris-Saclay (UPSaclay) and Institut Polytechnique de Paris (IPP)** to submit their work. Whether you have preliminary results or ongoing research, we strongly encourage you to participate and take advantage of this unique opportunity! 
 
-Topics of interest include, but are not restricted to:
-* Applied Machine Learning and Deep Learning (NLP, Computer Vision, Bioinformatics, Audio Processing...)
+### Topics of interest include, but are not limited to:
+* Applied Machine Learning and Deep Learning (NLP, Computer Vision, Bioinformatics, Signal Processing...)
 * Theoritical Machine Learning (Statistics, Learning Theory, Optimization, ...)
-* Data mining and Big Data analytics
-* Databases
-* Semantic Web
-* Application of Data Science (Biomedical/Biological data, Physics, Chemistry, Images, Audio, Video, ...)
+* Explainable AI
+* Data mining and Big Data Analytics
+* Databases, Ontologies and Semantic Web
+* AI4Sciences (Physics-Informed Machine Learning, AI-accelerated Simulations, …)
+* Application of Data Science (Biology, Physics, Chemistry, Image, Audio, Health-care, …)
 * Data Privacy
 
 ## Important Dates
-* Submission Deadline: ~~24 August 2025~~ 31 August 2025 (Deadline Extension)
-* Notification to authors: 12 September 2025
-* Registration: 19 September 2025
-* **Conference: 25-26 September 2025**
-*All deadlines are 23:59 AoE (UTC-12)*
+* Submission Deadline: 28 August 2026
+* Notification to authors: 10 September 2026
+* Registration: 18 September 2026
+* **Conference: 24–25 September 2026**
+
+All deadlines are 23:59 CEST (UTC+2)
 
 More informations about submissions [here](https://kdradjat.github.io/jdse-2025/callPapers).
 
 ## Keynotes
-* **Marine Le Morvan**, INRIA - Research Scientist
-* **Aurélien Bellet**, INRIA - Senior Researcher
-* **Silvia Tulli**, HABS - Senior AI Researcher
-* **Sihem Cherrared**, Orange - Research Enginner
+* **Jerome Lang**, LAMSADE
+* **Eugène Ndiaye**, 
+* **François Charton**, 
+* **François Charton**, 
 
 More about speakers [here](https://kdradjat.github.io/jdse-2025/speakers).
 
 ## Organization Committee
 ### Junior Committee
-* **Amira Dhaouadi**, *Inria Saclay, Institut Polytechnique de Paris* 
-* **Kevin Dradjat**, *Université d'Evry Paris-Saclay*
-* **Nassima Kaid**, *UVSQ, Université Paris-Saclay*  
-* **Roberto Petoh**, *UVSQ, Université Paris-Saclay* 
+* **Julian Agudelo**, *MIA PS, AgroParisTech, Université Paris-Saclay*
+* **Judith Coutrot**, *IBISC, Université Évry Paris-Saclay*
+* **Ikhlas Enaieh**, *LTCI, Télécom Paris, Institut Polytechnique de Paris*  
+* **Victor Manach**, *LTCI, Télécom Paris, Institut Polytechnique de Paris*
+* **Jules Soria**, *CEA LIST, Université Paris-Saclay* 
 
 ### Senior Committee
-* **Radu-Alexandru Dragomir**, *Télécom Paris, Institut Polytechnique de Paris*
-* **Clément Fisher**, *CEA, LIST, Université Paris-Saclay*
-* **Robin Guyon**, *CEA, LIST, Université Paris-Saclay*
-* **Massinissa Hamidi**, *Université d’Évry Paris-Saclay*  
-* **Michel Kieffer**, *Université Paris-Saclay* 
+* **Quentin Bouniot**, *LTCI, Télécom Paris, Institut Polytechnique de Paris*
+* **Clément Fisher**, *CEA LIST, Université Paris-Saclay*
+* **Robin Guyon**, *CEA LIST, Université Paris-Saclay*
+* **Massinissa Hamidi**, * IBISC, Université Évry Paris-Saclay*  
+* **Désiré Sidibé**, * IBISC, Université Évry Paris-Saclay* 
+* **Julien Signoles**, *CEA LIST, Université Paris-Saclay* 
+
 
 ### Local Arrangement
-* **Marie Laveau**, *Université Paris-Saclay*
+* **Marie Laveau**, *GS ISN, Université Paris-Saclay*
+
+## Contact
+jdse@universite-paris-saclay.fr
