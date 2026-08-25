@@ -18,10 +18,4 @@ https://openreview.net/group?id=JDSE/2026/Conference
 ## Reviewing Process
 The scientific program committee will review the submitted extended abstracts and will select a subset of them for oral presentations (in English) and others for poster presentations. 
 
-## Important Dates
-* 
-* Notification to authors: 10 September 2026
-* Registration: 18 September 2026
-* **Conference: 24–25 September 2026**
 
-All deadlines are 23:59 CEST (UTC+2)
