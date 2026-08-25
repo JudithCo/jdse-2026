@@ -1,7 +1,7 @@
 # Keynotes speakers
 
 ## **François Charton**
-<span style="color: #D6DCF5;"><em>Research Engineer at Axiom Math</em></span><br><br>
+<span style="color: #3B3FA0;"><em>Research Engineer at Axiom Math</em></span><br><br>
 
 * **Title**: 
 * **Abstract**: 
@@ -11,7 +11,7 @@
 
 
 ## **Maxime Di Folco**
-<span style="color: #D6DCF5;"><em>Associate Professor at Télécom Paris, Institut Polytechnique de Paris</em></span><br><br>
+<span style="color: #3B3FA0;"><em>Associate Professor at Télécom Paris, Institut Polytechnique de Paris</em></span><br><br>
 
 * **Title**: *Multimodal AI for Clinical Decision Support from Imaging and Clinical Data*
 * **Abstract**: Clinical decision support utilising multimodal AI has advanced significantly in recent years and is now recognised as a high-potential diagnostic, evaluative, and predictive tool in modern healthcare. However, seamlessly combining diverse modalities such as medical imaging and clinical data remains highly challenging due to the severe heterogeneity of these data. In this talk, I will present recent multimodal AI approaches applied to cardiovascular diseases, demonstrating how addressing these specific methodological challenges enables us to challenge established clinical baselines and drive better decision-making for patients.
@@ -20,7 +20,7 @@ He completed his PhD in Lyon under the supervision of Nicolas Duchateau and Patr
 
 
 ## **Jerome Lang**
-<span style="color: #D6DCF5;"><em>Director of LAMSADE, CNRS, Université Paris-Dauphine PSL</em></span><br><br>
+<span style="color: #3B3FA0;"><em>Director of LAMSADE, CNRS, Université Paris-Dauphine PSL</em></span><br><br>
 
 * **Title**: *AI, computational social choice, and democracy: ten little talks (a tribute to Agatha Christie)*
 * **Abstract**: Computational social choice is a research field at the intersection of artificial intelligence, theoretical computer science and economics. It consists of analysing problems arising from the aggregation of preferences of a group of agents from a computational perspective. Some of its subfields are various forms of voting, public decision making (e.g., participatory budgeting), fair division of resources, and matching with preferences (e.g., university-student matching). The interplay of computer science (and especially AI) and social choice has not only lead to developing algorithms for collective decision making: it has helped reshaping and revitalising the field, by identifying new paradigms, new problems, new objects of study. I will briefly present the field and then I will give some examples of such new paradigms, problems, or objects of study. The ten little talks mentioned in the title refer to potential talks: I will (obviously!) talk about less than ten topics, but these will be selected out of ten candidates by the attendance through a vote.
@@ -29,7 +29,7 @@ He completed his PhD in Lyon under the supervision of Nicolas Duchateau and Patr
 
 
 ## **Eugène Ndiaye**
-<span style="color: #D6DCF5;"><em>Independant Researcher</em></span><br><br>
+<span style="color: #3B3FA0;"><em>Independant Researcher</em></span><br><br>
 
 * **Title**: *Conformal Prediction through the Lens of Optimal Transport*
 * **Abstract**: Machine-learning models return an answer, but rarely tell us how much that answer can be trusted. When predictions are used to make important decisions, this is a real limitation. Conformal prediction offers one possible answer. It can turn almost any predictive model into one that reports uncertainty with guarantees valid for a finite number of observations. In its usual form, conformal prediction assigns a score to each possible outcome, ranks that score against past prediction errors, and keeps the outcomes that do not appear too unusual. The result is a prediction set: a range or collection of values likely to contain the truth. A key strength of conformal prediction is that its guarantee is finite-sample and distribution-free, provided the data are exchangeable. This makes it especially relevant when reliability matters, including in safety-sensitive AI applications. Yet, despite its recent popularity, the method still relies on ranking scalar scores, which limits its use when prediction errors have several coordinates. In this talk, I will introduce the basic idea and show how it can go further. By reformulating conformal prediction theory through modern optimal transport tools, we can work directly with vector-valued scores instead of reducing them to a single number. More importantly, this viewpoint allows us to move beyond prediction sets and construct calibrated predictive distributions for multivariate problems. These richer objects describe not only which outcomes are plausible, but also how uncertainty is distributed among them, opening the way to decisions made under an explicit level of risk.
