@@ -24,7 +24,7 @@ We welcome **second-year Master’s students and first/second-year PhD students*
 
 All deadlines are 23:59 CEST (UTC+2)
 
-More informations about submissions [here](https://kdradjat.github.io/jdse-2025/callPapers).
+More informations about submissions [here](/jdse-2026/callPapers).
 
 ## Keynotes
 * **Jerome Lang**, LAMSADE
@@ -32,7 +32,7 @@ More informations about submissions [here](https://kdradjat.github.io/jdse-2025/
 * **François Charton**, 
 * **François Charton**, 
 
-More about speakers [here](https://kdradjat.github.io/jdse-2025/speakers).
+More about speakers [here](/jdse-2026/speakers).
 
 ## Organization Committee
 ### Junior Committee
