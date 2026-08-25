@@ -5,7 +5,7 @@
 
 | Horaire |   | Detail |
 |:--------|:----------|:-------------|
-| **08:45 – 09:15** | Welcome coffee | |
+| **08:45 – 09:15** | Welcome Coffee & Registration | |
 | **09:15 – 09:30** | Opening speech | |
 | **09:30 – 10:10** | Keynote talk | *TBA* |
 | **10:10 – 10:40** | Coffee break | |
@@ -20,7 +20,7 @@
 
 | Horaire |   | Detail |
 |:--------|:----------|:-------------|
-| **08:45 – 09:15** | Welcome coffee | |
+| **08:45 – 09:15** | Welcome Coffee & Registration | |
 | **09:15 – 09:30** | Presentation of DATAIA | |
 | **09:30 – 10:10** | Keynote talk | *TBA* |
 | **10:10 – 10:40** | Coffee break | |
