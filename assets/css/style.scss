@@ -12,9 +12,16 @@
   aspect-ratio: 1920 / 450;
 }
 
-h1 {
-  text-align: center;
+.main-content h1 {
   color: #222222;
+}
+
+.main-content h2 {
+  color: #3B3FA0;
+}
+
+.main-content h3 {
+  color: #F4A900;
 }
 
 #menu {
