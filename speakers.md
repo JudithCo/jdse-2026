@@ -1,4 +1,4 @@
-# Keynotes speakers
+# Keynotes Speakers
 
 ## **François Charton**
 <span style="color: #3B3FA0;"><em>Research Engineer at Axiom Math</em></span><br><br>
