@@ -5,10 +5,11 @@
 
 .page-header{
   background-image: url("../../Images/JDSE_banner_with_logo.jpg");
-  background-size: contain;
+  background-size: 100% auto;
   background-repeat: no-repeat;
-  background-position: center;
-  height: 300px;
+  background-position: top center;
+  width: 100%;
+  aspect-ratio: 1920 / 450;
 }
 
 
@@ -49,8 +50,8 @@
 	margin-left: 5px;
 }
 #menu li a:hover {
-	color: #0099CC;
-	background: #F2F2F2;
+	color: #C4006A;
+	background: #D6DCF5;
 }
 #menu input {
 	display: none;
@@ -89,7 +90,7 @@
 	width: 100%;
 }
 #menu ul.sub-menus a {
-	color: #FFFFFF;
+	color: #3B3FA0;
 	font-size: 16px;
 }
 #menu li:hover ul.sub-menus {
