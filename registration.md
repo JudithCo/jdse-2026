@@ -1,7 +1,7 @@
 # Registration
 
 <p align="center">
-  Registration Deadline: <strong>18 September 2026<strong>
+  Registration Deadline: <strong>18 September 2026</strong>
   **Registration is not open yet.**
 
   <a href=" https://openreview.net/group?id=JDSE/2026/Conference">
