@@ -3,8 +3,6 @@
 ## **François Charton**
 <span style="color: #3B3FA0;"><em>Research Engineer at Axiom Math</em></span><br><br>
 
-* **Title**: 
-* **Abstract**: 
 * **Biography**: François Charton is a Research Engineer, one of the first employees at Axiom Math, researching the use of language models in mathematics and theoretical physics. He established himself as a specialist in AI applied to mathematics during his time at Facebook AI Research and continues to do so at Axiom Math. He frequently gives talks at Collège de France and prestigious universities and publishes at top-tier venues. Axiom Math is a startup that focuses on solving math's hardest problems using AI and formalization tools they build.
 * **Personal website**:  [https://f-charton.github.io/about/](https://f-charton.github.io/about/)
 * **Company website**:  [https://axiommath.ai/](https://axiommath.ai/)
