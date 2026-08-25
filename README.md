@@ -1,7 +1,7 @@
 # **JDSE 2026**
 
 <p align="center">
-  <span style="color: #3B3FA0;">
+  <span style="color: #C4006A;">
     <em>11th Junior Conference on Data Sciences and Engineering</em>
   </span>
 </p>
