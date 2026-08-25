@@ -6,8 +6,4 @@
 <p align="center">
   <i>Registration is not open yet.</i>
 </p>
-<p align="center">
-  <a href="https://openreview.net/group?id=JDSE/2026/Conference">
-    <button>style="background-color: #D6DCF5; color: white; border: none; padding: 10px 20px; border-radius: 6px;"><strong>Register</strong></button>
-  </a>
-</p>
+

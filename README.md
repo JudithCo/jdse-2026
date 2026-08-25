@@ -7,13 +7,13 @@ Join us for **keynote talks by leading academics and industry professionals**, p
 We welcome **second-year Master’s students and first/second-year PhD students** from **Université Paris-Saclay (UPSaclay) and Institut Polytechnique de Paris (IPP)** to submit their work. Whether you have preliminary results or ongoing research, we strongly encourage you to participate and take advantage of this unique opportunity! 
 
 ### Topics of interest include, but are not limited to:
-* Applied Machine Learning and Deep Learning (NLP, Computer Vision, Bioinformatics, Signal Processing...)
-* Theoritical Machine Learning (Statistics, Learning Theory, Optimization, ...)
+* Applied Machine Learning and Deep Learning *(NLP, Computer Vision, Bioinformatics, Signal Processing...)*
+* Theoritical Machine Learning *(Statistics, Learning Theory, Optimization, ...)*
 * Explainable AI
 * Data mining and Big Data Analytics
 * Databases, Ontologies and Semantic Web
-* AI4Sciences (Physics-Informed Machine Learning, AI-accelerated Simulations, …)
-* Application of Data Science (Biology, Physics, Chemistry, Image, Audio, Health-care, …)
+* AI4Sciences *(Physics-Informed Machine Learning, AI-accelerated Simulations, …)*
+* Application of Data Science *(Biology, Physics, Chemistry, Image, Audio, Health-care, …)*
 * Data Privacy
 
 ## Important Dates
@@ -30,7 +30,7 @@ More informations about submissions [here](/jdse-2026/callPapers).
 * **Jerome Lang**, LAMSADE
 * **Eugène Ndiaye**, 
 * **François Charton**, 
-* **François Charton**, 
+* **Maxime Di Folco**, 
 
 More about speakers [here](/jdse-2026/speakers).
 
