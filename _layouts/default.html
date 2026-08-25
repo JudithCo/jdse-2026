@@ -16,10 +16,16 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <div class="page-header__inner">
+        <h1 class="page-header__title">
+          <a href="{{ '/' | relative_url }}">
+            {{ site.title | default: "JDSE 2026" }}
+          </a>
+        </h1>
+        <p class="page-header__description">
+          {{ site.description | default: "Journées Doctorales en Sciences de l'Entreprise" }}
+        </p>
+      </div>
     </header>
 
     <nav id='menu'>
