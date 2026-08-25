@@ -5,6 +5,7 @@
     <em>11th Junior Conference on Data Sciences and Engineering</em>
   </span>
 </p>
+
 Are you a **Master’s student or an early-career researcher** eager to share your work, gain valuable insights, and connect with experts? The **11th edition of the Junior Conference on Data Science and Engineering (JDSE)** is your chance to **present your research**, receive constructive feedback, and sharpen your presentation skills in a dynamic and supportive environment. 
 
 Join us for **keynote talks by leading academics and industry professionals**, providing inspiration and networking opportunities to help you grow in your field. 
