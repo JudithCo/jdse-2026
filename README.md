@@ -28,9 +28,9 @@ More informations about submissions [here](/jdse-2026/callPapers).
 
 ## Keynotes
 * **Jerome Lang**, LAMSADE
-* **Eugène Ndiaye**, 
+* **Eugène Ndiaye**, Independent Researcher
 * **François Charton**, 
-* **Maxime Di Folco**, 
+* **Maxime Di Folco**, Associate Professor at Télécom Paris, Institut Polytechnique de Paris
 
 More about speakers [here](/jdse-2026/speakers).
 
